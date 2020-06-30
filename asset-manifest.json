@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/true/static/css/main.a82193ae.chunk.css",
-    "main.js": "/true/static/js/main.7b5f7247.chunk.js",
-    "main.js.map": "/true/static/js/main.7b5f7247.chunk.js.map",
-    "runtime-main.js": "/true/static/js/runtime-main.cc12d387.js",
-    "runtime-main.js.map": "/true/static/js/runtime-main.cc12d387.js.map",
-    "static/js/2.ccef9948.chunk.js": "/true/static/js/2.ccef9948.chunk.js",
-    "static/js/2.ccef9948.chunk.js.map": "/true/static/js/2.ccef9948.chunk.js.map",
-    "index.html": "/true/index.html",
-    "precache-manifest.e3ef99d5d8c7db4f9928c4a6a641337a.js": "/true/precache-manifest.e3ef99d5d8c7db4f9928c4a6a641337a.js",
-    "service-worker.js": "/true/service-worker.js",
-    "static/css/main.a82193ae.chunk.css.map": "/true/static/css/main.a82193ae.chunk.css.map",
-    "static/js/2.ccef9948.chunk.js.LICENSE.txt": "/true/static/js/2.ccef9948.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/true/static/media/sidebar_true_side.dd73d60b.png"
+    "main.css": "/takumi4913.github.io/static/css/main.09047ed4.chunk.css",
+    "main.js": "/takumi4913.github.io/static/js/main.b0673aec.chunk.js",
+    "main.js.map": "/takumi4913.github.io/static/js/main.b0673aec.chunk.js.map",
+    "runtime-main.js": "/takumi4913.github.io/static/js/runtime-main.da6f4c46.js",
+    "runtime-main.js.map": "/takumi4913.github.io/static/js/runtime-main.da6f4c46.js.map",
+    "static/js/2.ccef9948.chunk.js": "/takumi4913.github.io/static/js/2.ccef9948.chunk.js",
+    "static/js/2.ccef9948.chunk.js.map": "/takumi4913.github.io/static/js/2.ccef9948.chunk.js.map",
+    "index.html": "/takumi4913.github.io/index.html",
+    "precache-manifest.9dacc1720128fd36db518fbc614cac59.js": "/takumi4913.github.io/precache-manifest.9dacc1720128fd36db518fbc614cac59.js",
+    "service-worker.js": "/takumi4913.github.io/service-worker.js",
+    "static/css/main.09047ed4.chunk.css.map": "/takumi4913.github.io/static/css/main.09047ed4.chunk.css.map",
+    "static/js/2.ccef9948.chunk.js.LICENSE.txt": "/takumi4913.github.io/static/js/2.ccef9948.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/takumi4913.github.io/static/media/sidebar_true_side.dd73d60b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc12d387.js",
+    "static/js/runtime-main.da6f4c46.js",
     "static/js/2.ccef9948.chunk.js",
-    "static/css/main.a82193ae.chunk.css",
-    "static/js/main.7b5f7247.chunk.js"
+    "static/css/main.09047ed4.chunk.css",
+    "static/js/main.b0673aec.chunk.js"
   ]
 }
