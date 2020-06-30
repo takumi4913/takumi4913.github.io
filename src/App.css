@@ -1,0 +1,136 @@
+.Primary{
+  overflow: hidden !important;
+  background-image: url("./sidebar_true2.png");
+}
+.item {
+  text-align: center;
+  font-size: 3.5em;
+  background-color: brown;
+}
+.NextItem {
+  text-align: center;
+  font-size: 3.5em;
+  top: 0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.NextItem_w {
+  text-align: center;
+  font-size: 3.5em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  top: 0px;
+  height: 100%;
+  background: rgba(255, 255, 255,0.5);
+}
+.sidebar{
+  display: inline-block;
+  opacity: 0.8;
+  width: 100em;
+  height: 46.5em;
+  background-image: url("./University.png");
+}
+
+.sidebar_w{
+  display: inline-block;
+  width: 100em;
+  height: 46.5em;
+  background-color: white;
+}
+
+.button{
+  display: inline-block;
+  border-radius: 4px;
+  width: 12em;
+  height: 4em;
+  margin: 0em 2em 0em 2em;
+  background-image: url("./20170706_2369764.jpg");
+}
+.buttonItem{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Head{
+  padding: 1.2em 0em 1.2em 0em;
+}
+.InHead{
+  text-align: center;
+  font-size: 6em;
+  vertical-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.InBOX{
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+}
+.ButtonBox{
+  padding: 0em 0em 0em 33em;
+  background-image: url("./sidebar_true.png");
+}
+.UnderBox{
+  display: block;
+  height: 4em;
+  padding: 0em 0em 0em 0em;
+  background-image: url("./sidebar_true.png");
+}
+.SideBox{
+  display: inline-block;
+  border-radius: 4px;
+  width: 10em;
+  height: 46.5em;
+  background-image: url("./sidebar_true_side.png");
+  vertical-align: bottom;
+}
+.SideBox_1{
+  display: inline-block;
+  border-radius: 4px;
+  width: 10em;
+  height: 46.5em;
+  background-image: url("./sidebar_true_side.png");
+  vertical-align: bottom;
+}
+.CenterBox{
+  display: inline-block;
+  border-radius: 4px;
+  padding: 0em 0em 0em 0em;
+  width: 100em;
+  height: 46.5em;
+  background-image: url("./profile.png");
+  vertical-align: bottom;
+}
+.UnderStyle{
+  height: 100%;
+  background: rgba(255, 255, 255,0.6);
+}
+.Pbox{
+  display: inline-block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3.5em;
+  margin: 0em 0em 0em 12.7em;
+}
+.PboxMain{
+  display: block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3.5em;
+  margin: 0em 0em 0em 0em;
+}
+.sasuke{
+  font-size: 1em;
+  /*background-image:url("./HeadBack.jpg");*/
+  background-size: cover;
+  height: 8em;
+}
+.MainBox{
+  background-color:white;
+}
+
+
+.Univ_box{
+  text-align: left;
+}
+.Univ_box_B{
+  text-align: left;
+  font-size: 1.2em;
+}
+.Ski_box{
+  text-align: left;
+}
