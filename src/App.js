@@ -200,9 +200,10 @@ export class PoseList extends React.Component {
             Works
           <Item onClick={this.toggle}
           pose={this.state.isOpenW ? 'open' : 'closed'} className="Kari">
-            <div>顔認証カプリ</div>
-            <div>表情を認識してスタンプを加えるアプリケーションです。</div>
-            <div>ポートフォリオ</div>
+            <div className="Work_box">顔認証カプリ</div>
+            <div className="Work_box_2">→表情を認識してスタンプを加えるアプリケーションです。</div>
+            <div className="Work_box_3">ポートフォリオ</div>
+            <div className="Work_box_4">→ポートフォリオを完成させました。（随時更新）</div>
             </Item> 
           </Item>
           </SidePanelNext1>
@@ -225,15 +226,10 @@ export class PoseList extends React.Component {
             Skills
             <Item onClick={this.toggle}
           pose={this.state.isOpenS ? 'open' : 'closed'} className="Kari">
-            <div>言語について</div>
-            <div></div>
-            <div className="Ski_box">Java</div>
-            <div className="Ski_box">Python</div>
-            <div className="Ski_box">JavaScript</div>
-            <div className="Ski_box">その他</div>
-            <div className="Ski_box">git</div>
-            <div className="Ski_box">slack</div>
-            <div className="Ski_box">Docker</div>
+            <div className="Ski_box">言語について</div>
+            <div className="Ski_box_2">→Java,Python,JavaScriptを使います。</div>
+            <div className="Ski_box_3">その他</div>
+            <div className="Ski_box_4">→git,slack,Dockerの使用経験があります。</div>
             </Item> 
           </Item> 
           </SidePanelNext2>
@@ -255,6 +251,15 @@ export class PoseList extends React.Component {
           <Item onClick={this.toggle}
           pose={this.state.isOpenC ? 'open' : 'closed'} className="NextItem_w">
             Contact
+            <Item onClick={this.toggle}
+          pose={this.state.isOpenS ? 'open' : 'closed'} className="Kari">
+            <div className="Con_box">Twitter</div>
+            <div className="Con_box_2">→@mojubo0210</div>
+            <div className="Con_box_3">GitHub</div>
+            <div className="Con_box_4">→ユーザー名：takumi4913</div>
+            <div className="Con_box_5">Mail</div>
+            <div className="Con_box_6">→takumi4913@gmail.com</div>
+            </Item> 
           </Item> 
           </SidePanelNext3>
       </div>
