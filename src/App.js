@@ -166,7 +166,7 @@ export class PoseList extends React.Component {
           <SidePanelNext0
           onClick={this.toggle}
           pose={this.state.isOpenU ? 'open' : 'closed'}
-          className="sidebar">
+          className="sidebar_U">
           <Item onClick={this.toggle}
           pose={this.state.isOpenU ? 'open' : 'closed'} className="NextItem_w">
             University
@@ -194,7 +194,7 @@ export class PoseList extends React.Component {
           <SidePanelNext1
           onClick={this.toggle}
           pose={this.state.isOpenW ? 'open' : 'closed'}
-          className="sidebar">
+          className="sidebar_W">
           <Item onClick={this.toggle}
           pose={this.state.isOpenW ? 'open' : 'closed'} className="NextItem_w">
             Works
@@ -204,6 +204,8 @@ export class PoseList extends React.Component {
             <div className="Work_box_2">→表情を認識してスタンプを加えるアプリケーションです。</div>
             <div className="Work_box_3">ポートフォリオ</div>
             <div className="Work_box_4">→ポートフォリオを完成させました。（随時更新）</div>
+            <div className="Work_box_5">表情認識カメラアプリ</div>
+            <div className="Work_box_6">→指定した表情を検知すると撮るAndroidアプリです。</div>
             </Item> 
           </Item>
           </SidePanelNext1>
@@ -220,7 +222,7 @@ export class PoseList extends React.Component {
           <SidePanelNext2
           onClick={this.toggle}
           pose={this.state.isOpenS ? 'open' : 'closed'}
-          className="sidebar">
+          className="sidebar_S">
           <Item onClick={this.toggle}
           pose={this.state.isOpenS ? 'open' : 'closed'} className="NextItem_w">
             Skills
@@ -247,7 +249,7 @@ export class PoseList extends React.Component {
           <SidePanelNext3
           onClick={this.toggle}
           pose={this.state.isOpenC ? 'open' : 'closed'}
-          className="sidebar">
+          className="sidebar_C">
           <Item onClick={this.toggle}
           pose={this.state.isOpenC ? 'open' : 'closed'} className="NextItem_w">
             Contact

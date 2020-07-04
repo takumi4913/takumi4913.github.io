@@ -21,12 +21,42 @@
   height: 100%;
   background: rgba(255, 255, 255,0.5);
 }
-.sidebar{
+/*.CenterBox{
+  display: inline-block;
+  border-radius: 4px;
+  padding: 0em 0em 0em 0em;
+  width: 100em;
+  height: 46.5em;
+  background-image: url("./profile.png");
+  vertical-align: bottom;
+}*/
+.sidebar_U{
   display: inline-block;
   opacity: 0.8;
   width: 100em;
   height: 46.5em;
   background-image: url("./University.png");
+}
+.sidebar_W{
+  display: inline-block;
+  opacity: 0.8;
+  width: 100em;
+  height: 46.5em;
+  background-image: url("./S__75366415.jpg");
+}
+.sidebar_S{
+  display: inline-block;
+  opacity: 0.8;
+  width: 100em;
+  height: 46.5em;
+  background-image: url("./S__75366417.jpg");
+}
+.sidebar_C{
+  display: inline-block;
+  opacity: 0.8;
+  width: 100em;
+  height: 46.5em;
+  background-image: url("./S__75366418.jpg");
 }
 
 .sidebar_w{
@@ -146,6 +176,14 @@
 .Work_box_4{
   display: inline-block;
   margin: 0em 4em 0em 0em;
+}
+.Work_box_5{
+  display: inline-block;
+  margin: 0em 14.5em 0em 0em;
+}
+.Work_box_6{
+  display: inline-block;
+  margin: 0em 2.7em 0em 0em;
 }
 .Ski_box{
   margin: 0em 18em 0em 0em;
